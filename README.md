@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello and welcome to my GitHub profile!<br><br> <br><br>He introduced me to my name Christian and I am passionate about developing<br><br>Software. My specialty: BackEnd Development. I'm new to the industry and<br><br>At the moment I work with the following technologies: Java, Python, JavaScript.<br><br> <br><br>As you can see, I am in my training process, although in this industry the<br><br>learning never stops And for me the fact of always facing remains<br><br>new is a pleasure. My passion for computers, both for Hardware and<br><br>by the software have led me to embark on an adventure as a self-taught<br><br>to be able to study and understand this that is so wonderful and that has revolutionized<br><br>both to the world, such as computing, software development and more<br><br>AI recently.
+"Let me introduce myself, my name is Christian, and I'm passionate about software development. My specialty is BackEnd Development. I'm new to the industry, and currently, I work with the following technologies: Java, Python, HTML, CSS, and JavaScript.
+
+As you can see, I'm in the process of learning, but in this industry, learning never stops, and facing new challenges is a pleasure for me. My passion for computers, both hardware and software, has led me to embark on a journey of self-learning to study and understand this fascinating field, which has revolutionized the world, including computing, software development, and more recently, AI."
 
 
 ## 🌐 Socials:
